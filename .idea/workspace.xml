@@ -29,8 +29,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/build/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="222" column="44" lean-forward="false" selection-start-line="222" selection-start-column="44" selection-end-line="222" selection-end-column="44" />
+            <state relative-caret-position="578">
+              <caret line="222" column="89" lean-forward="false" selection-start-line="222" selection-start-column="89" selection-end-line="222" selection-end-column="89" />
               <folding />
             </state>
           </provider>
@@ -39,8 +39,8 @@
       <file leaf-file-name="form.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/build/form.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="430" column="14" lean-forward="true" selection-start-line="430" selection-start-column="14" selection-end-line="430" selection-end-column="14" />
+            <state relative-caret-position="238">
+              <caret line="128" column="129" lean-forward="true" selection-start-line="128" selection-start-column="8" selection-end-line="128" selection-end-column="129" />
               <folding />
             </state>
           </provider>
@@ -49,8 +49,8 @@
       <file leaf-file-name="photo.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/build/photo.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="55" column="129" lean-forward="true" selection-start-line="55" selection-start-column="7" selection-end-line="55" selection-end-column="129" />
+            <state relative-caret-position="272">
+              <caret line="97" column="89" lean-forward="true" selection-start-line="97" selection-start-column="6" selection-end-line="97" selection-end-column="89" />
               <folding />
             </state>
           </provider>
@@ -60,9 +60,9 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>pink</find>
       <find>header</find>
       <find>class=&quot;</find>
+      <find>pink</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -71,8 +71,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/build/photo.html" />
         <option value="$PROJECT_DIR$/build/form.html" />
+        <option value="$PROJECT_DIR$/build/photo.html" />
         <option value="$PROJECT_DIR$/build/index.html" />
       </list>
     </option>
@@ -155,12 +155,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1509719078262</updated>
-      <workItem from="1509719083344" duration="1681000" />
+      <workItem from="1509719083344" duration="1939000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1681000" />
+    <option name="totallyTimeSpent" value="1939000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -203,26 +203,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/build/photo.html">
+    <entry file="file://$PROJECT_DIR$/build/form.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="55" column="129" lean-forward="true" selection-start-line="55" selection-start-column="7" selection-end-line="55" selection-end-column="129" />
+        <state relative-caret-position="238">
+          <caret line="128" column="129" lean-forward="true" selection-start-line="128" selection-start-column="8" selection-end-line="128" selection-end-column="129" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/build/form.html">
+    <entry file="file://$PROJECT_DIR$/build/photo.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="430" column="14" lean-forward="true" selection-start-line="430" selection-start-column="14" selection-end-line="430" selection-end-column="14" />
+        <state relative-caret-position="272">
+          <caret line="97" column="89" lean-forward="true" selection-start-line="97" selection-start-column="6" selection-end-line="97" selection-end-column="89" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/build/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="222" column="44" lean-forward="false" selection-start-line="222" selection-start-column="44" selection-end-line="222" selection-end-column="44" />
+        <state relative-caret-position="578">
+          <caret line="222" column="89" lean-forward="false" selection-start-line="222" selection-start-column="89" selection-end-line="222" selection-end-column="89" />
           <folding />
         </state>
       </provider>
